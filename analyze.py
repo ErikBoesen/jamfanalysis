@@ -3,6 +3,9 @@ import plistlib
 from datetime import date
 import os
 from pprint import pprint
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
 
 DATE = date.today().strftime('%Y-%m-%d')
 DIR = '/Library/Application Support/JAMF/Usage/' + DATE + '/'
@@ -14,13 +17,14 @@ USERNAME = 'boesene'
 
 with open(DIR + 'idle.plist', 'rb') as f:
     idle = plistlib.load(f, fmt=plistlib.FMT_XML)
-pprint(idle)
 with open(DIR + USERNAME + '.plist', 'rb') as f:
     user = plistlib.load(f, fmt=plistlib.FMT_XML)
-pprint(user)
-with open(DIR + '(null).plist', 'rb') as f:
+"""with open(DIR + '(null).plist', 'rb') as f:
     null = plistlib.load(f, fmt=plistlib.FMT_XML)
-pprint(null)
+pprint(null)"""
+
+df = pd.DataFrame.from_dict(user, orient='index')
+df.to_csv('data.csv')
 
 """
 for user in users:
