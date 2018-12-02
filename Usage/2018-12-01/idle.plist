@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>lockMinutes</key>
-	<string>0</string>
+	<string>87</string>
 	<key>lockSeconds</key>
-	<string>3</string>
+	<string>5278</string>
 	<key>lockStartTime</key>
-	<string>1543701985</string>
+	<string>1543726800</string>
 	<key>minutes</key>
 	<string>0</string>
 	<key>powerOffMinutes</key>
@@ -23,10 +23,10 @@
 	<key>screensaverStartTime</key>
 	<string>0</string>
 	<key>sleepMinutes</key>
-	<string>103</string>
+	<string>87</string>
 	<key>sleepSeconds</key>
-	<string>6221</string>
+	<string>5278</string>
 	<key>sleepStartTime</key>
-	<string>0</string>
+	<string>1543726800</string>
 </dict>
 </plist>
