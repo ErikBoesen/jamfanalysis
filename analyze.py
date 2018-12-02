@@ -10,6 +10,7 @@ import matplotlib.pyplot as plt
 DATE = date.today().strftime('%Y-%m-%d')
 DIR = '/Library/Application Support/JAMF/Usage/' + DATE + '/'
 DIR = 'Usage/' + DATE + '/'
+DIR = 'Usage/2018-12-01/'
 
 users = os.listdir(DIR)
 users = [user for user in users if user not in ['idle.plist']]
@@ -23,8 +24,17 @@ with open(DIR + USERNAME + '.plist', 'rb') as f:
     null = plistlib.load(f, fmt=plistlib.FMT_XML)
 pprint(null)"""
 
-df = pd.DataFrame.from_dict(user, orient='index')
+df = pd.DataFrame.from_dict(user, orient='index', columns=['name','foremost','open','secondsforemost','secondsopen','version'])
+df.rename(columns={'': 'name'})
 df.to_csv('data.csv')
+
+#sns.barplot(col='name', y='secondsopen', data=df).figure.savefig('secondsopen.png')
+print(df['name'])
+plt.pie(df['secondsforemost'], labels=df['name'])
+#fig1, ax1 = plt.subplots()
+#ax1.pie(labels['secondsopen'], labels=tuple(df['name']), startangle=90)
+#ax1.axis('equal')
+plt.savefig('secondsopen.png')
 
 """
 for user in users:
