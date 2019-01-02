@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>/System/Library/CoreServices/SystemUIServer.app</key>
+	<dict>
+		<key>foremost</key>
+		<string>0</string>
+		<key>open</key>
+		<string>210</string>
+		<key>secondsforemost</key>
+		<string>0</string>
+		<key>secondsopen</key>
+		<string>12638</string>
+		<key>version</key>
+		<string>1.7</string>
+	</dict>
+	<key>/System/Library/Frameworks/Security.framework/Versions/A/MachServices/SecurityAgent.bundle</key>
+	<dict>
+		<key>foremost</key>
+		<string>0</string>
+		<key>open</key>
+		<string>210</string>
+		<key>secondsforemost</key>
+		<string>0</string>
+		<key>secondsopen</key>
+		<string>12638</string>
+		<key>version</key>
+		<string>9.0</string>
+	</dict>
+</dict>
+</plist>
