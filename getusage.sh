@@ -7,5 +7,5 @@ for ((;;)); do
     chown -R boesene /tmp/Usage
     chmod -R u=rwX,go=rX /tmp/Usage
     cp -rp /tmp/Usage ~boesene/src/jamfanalysis/
-    sleep 200
+    sleep 2000
 done

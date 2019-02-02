@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>/Applications/Utilities/Terminal.app</key>
+	<dict>
+		<key>foremost</key>
+		<string>0</string>
+		<key>open</key>
+		<string>160</string>
+		<key>secondsforemost</key>
+		<string>0</string>
+		<key>secondsopen</key>
+		<string>9635</string>
+		<key>version</key>
+		<string>2.8.2</string>
+	</dict>
+	<key>/System/Library/CoreServices/Finder.app</key>
+	<dict>
+		<key>foremost</key>
+		<string>0</string>
+		<key>open</key>
+		<string>160</string>
+		<key>secondsforemost</key>
+		<string>0</string>
+		<key>secondsopen</key>
+		<string>9635</string>
+		<key>version</key>
+		<string>10.13.5</string>
+	</dict>
+	<key>/System/Library/CoreServices/loginwindow.app</key>
+	<dict>
+		<key>foremost</key>
+		<string>0</string>
+		<key>open</key>
+		<string>160</string>
+		<key>secondsforemost</key>
+		<string>0</string>
+		<key>secondsopen</key>
+		<string>9635</string>
+		<key>version</key>
+		<string>9.0</string>
+	</dict>
+</dict>
+</plist>
