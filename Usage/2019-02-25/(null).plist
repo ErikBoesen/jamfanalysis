@@ -2,250 +2,185 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>/Applications/App Store.app</key>
+	<key>/Applications/Calculator.app</key>
 	<dict>
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>2071</string>
+		<string>1923</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>124266</string>
+		<string>115413</string>
 		<key>version</key>
-		<string>2.4</string>
+		<string>10.13</string>
+	</dict>
+	<key>/Applications/Font Book.app</key>
+	<dict>
+		<key>foremost</key>
+		<string>1</string>
+		<key>open</key>
+		<string>831</string>
+		<key>secondsforemost</key>
+		<string>6</string>
+		<key>secondsopen</key>
+		<string>49865</string>
+		<key>version</key>
+		<string>8.0</string>
 	</dict>
 	<key>/Applications/LockDown Browser.app</key>
 	<dict>
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>2071</string>
+		<string>1923</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>124267</string>
+		<string>115413</string>
 		<key>version</key>
 		<string>2.0.3</string>
 	</dict>
-	<key>/Applications/Logger Pro 3/Logger Pro.app</key>
+	<key>/Applications/Mail.app</key>
 	<dict>
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>2071</string>
+		<string>1923</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>124266</string>
+		<string>115413</string>
 		<key>version</key>
-		<string>3.8.5.1</string>
+		<string>11.4</string>
 	</dict>
 	<key>/Applications/Microsoft Excel.app</key>
 	<dict>
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>2071</string>
+		<string>1923</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>124266</string>
+		<string>115413</string>
 		<key>version</key>
 		<string>15.29.16120900</string>
 	</dict>
 	<key>/Applications/Photo Booth.app</key>
 	<dict>
 		<key>foremost</key>
-		<string>10</string>
+		<string>0</string>
 		<key>open</key>
-		<string>2064</string>
+		<string>1923</string>
 		<key>secondsforemost</key>
-		<string>623</string>
+		<string>0</string>
 		<key>secondsopen</key>
-		<string>123886</string>
+		<string>115413</string>
 		<key>version</key>
 		<string>9.0</string>
 	</dict>
 	<key>/Applications/Preview.app</key>
 	<dict>
 		<key>foremost</key>
-		<string>10</string>
+		<string>0</string>
 		<key>open</key>
-		<string>2024</string>
+		<string>1923</string>
 		<key>secondsforemost</key>
-		<string>639</string>
+		<string>0</string>
 		<key>secondsopen</key>
-		<string>121458</string>
+		<string>115413</string>
 		<key>version</key>
 		<string>10.0</string>
-	</dict>
-	<key>/Applications/QuickTime Player.app</key>
-	<dict>
-		<key>foremost</key>
-		<string>0</string>
-		<key>open</key>
-		<string>2071</string>
-		<key>secondsforemost</key>
-		<string>0</string>
-		<key>secondsopen</key>
-		<string>124265</string>
-		<key>version</key>
-		<string>10.4</string>
 	</dict>
 	<key>/Applications/System Preferences.app</key>
 	<dict>
 		<key>foremost</key>
-		<string>0</string>
+		<string>1</string>
 		<key>open</key>
-		<string>2071</string>
+		<string>1945</string>
 		<key>secondsforemost</key>
-		<string>0</string>
+		<string>2</string>
 		<key>secondsopen</key>
-		<string>124266</string>
+		<string>116735</string>
 		<key>version</key>
 		<string>14.0</string>
-	</dict>
-	<key>/Applications/Utilities/Disk Utility.app</key>
-	<dict>
-		<key>foremost</key>
-		<string>0</string>
-		<key>open</key>
-		<string>2071</string>
-		<key>secondsforemost</key>
-		<string>0</string>
-		<key>secondsopen</key>
-		<string>124267</string>
-		<key>version</key>
-		<string>17.0.3</string>
 	</dict>
 	<key>/Applications/Utilities/System Information.app</key>
 	<dict>
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>2061</string>
+		<string>1923</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>123664</string>
+		<string>115413</string>
 		<key>version</key>
 		<string>10.12</string>
 	</dict>
 	<key>/Applications/Utilities/Terminal.app</key>
 	<dict>
 		<key>foremost</key>
-		<string>109</string>
+		<string>0</string>
 		<key>open</key>
-		<string>2071</string>
+		<string>1923</string>
 		<key>secondsforemost</key>
-		<string>6575</string>
+		<string>0</string>
 		<key>secondsopen</key>
-		<string>124267</string>
+		<string>115414</string>
 		<key>version</key>
 		<string>2.8.2</string>
-	</dict>
-	<key>/Applications/iMovie.app</key>
-	<dict>
-		<key>foremost</key>
-		<string>0</string>
-		<key>open</key>
-		<string>2071</string>
-		<key>secondsforemost</key>
-		<string>0</string>
-		<key>secondsopen</key>
-		<string>124267</string>
-		<key>version</key>
-		<string>10.1.9</string>
 	</dict>
 	<key>/Applications/iTunes.app</key>
 	<dict>
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>2071</string>
+		<string>1923</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>124266</string>
+		<string>115413</string>
 		<key>version</key>
 		<string>12.8</string>
 	</dict>
 	<key>/Library/Frameworks/Python.framework/Versions/3.6/Resources/Python.app</key>
 	<dict>
 		<key>foremost</key>
-		<string>0</string>
+		<string>2</string>
 		<key>open</key>
-		<string>2071</string>
+		<string>1961</string>
 		<key>secondsforemost</key>
-		<string>0</string>
+		<string>138</string>
 		<key>secondsopen</key>
-		<string>124266</string>
+		<string>117666</string>
 		<key>version</key>
 		<string>3.6.5</string>
-	</dict>
-	<key>/Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Resources/Java Updater.app</key>
-	<dict>
-		<key>foremost</key>
-		<string>0</string>
-		<key>open</key>
-		<string>2061</string>
-		<key>secondsforemost</key>
-		<string>0</string>
-		<key>secondsopen</key>
-		<string>123664</string>
-		<key>version</key>
-		<string>1.0</string>
-	</dict>
-	<key>/System/Library/CoreServices/AirPlayUIAgent.app</key>
-	<dict>
-		<key>foremost</key>
-		<string>0</string>
-		<key>open</key>
-		<string>2061</string>
-		<key>secondsforemost</key>
-		<string>0</string>
-		<key>secondsopen</key>
-		<string>123663</string>
-		<key>version</key>
-		<string>2.0</string>
 	</dict>
 	<key>/System/Library/CoreServices/Applications/Archive Utility.app</key>
 	<dict>
 		<key>foremost</key>
-		<string>0</string>
+		<string>1</string>
 		<key>open</key>
-		<string>2071</string>
+		<string>825</string>
 		<key>secondsforemost</key>
-		<string>0</string>
+		<string>1</string>
 		<key>secondsopen</key>
-		<string>124267</string>
+		<string>49522</string>
 		<key>version</key>
 		<string>10.10</string>
-	</dict>
-	<key>/System/Library/CoreServices/Applications/Network Utility.app</key>
-	<dict>
-		<key>foremost</key>
-		<string>0</string>
-		<key>open</key>
-		<string>2071</string>
-		<key>secondsforemost</key>
-		<string>0</string>
-		<key>secondsopen</key>
-		<string>124267</string>
-		<key>version</key>
-		<string>1.9.2</string>
 	</dict>
 	<key>/System/Library/CoreServices/Captive Network Assistant.app</key>
 	<dict>
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>2071</string>
+		<string>1923</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>124265</string>
+		<string>115413</string>
 		<key>version</key>
 		<string>5.0</string>
 	</dict>
@@ -254,11 +189,11 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>2061</string>
+		<string>1923</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>123664</string>
+		<string>115413</string>
 		<key>version</key>
 		<string>180.7.6</string>
 	</dict>
@@ -267,349 +202,323 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>2071</string>
+		<string>1923</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>124266</string>
+		<string>115413</string>
 		<key>version</key>
 		<string>1.8</string>
 	</dict>
 	<key>/System/Library/CoreServices/Finder.app</key>
 	<dict>
 		<key>foremost</key>
-		<string>1</string>
+		<string>0</string>
 		<key>open</key>
-		<string>2071</string>
+		<string>1923</string>
 		<key>secondsforemost</key>
-		<string>33</string>
+		<string>0</string>
 		<key>secondsopen</key>
-		<string>124266</string>
+		<string>115413</string>
 		<key>version</key>
 		<string>10.13.5</string>
+	</dict>
+	<key>/System/Library/CoreServices/Jar Launcher.app</key>
+	<dict>
+		<key>foremost</key>
+		<string>0</string>
+		<key>open</key>
+		<string>1923</string>
+		<key>secondsforemost</key>
+		<string>0</string>
+		<key>secondsopen</key>
+		<string>115413</string>
+		<key>version</key>
+		<string>15.0.1</string>
 	</dict>
 	<key>/System/Library/CoreServices/ScreenSaverEngine.app</key>
 	<dict>
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>2061</string>
+		<string>1923</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>123664</string>
+		<string>115413</string>
 		<key>version</key>
 		<string>5.0</string>
-	</dict>
-	<key>/System/Library/CoreServices/SystemUIServer.app</key>
-	<dict>
-		<key>foremost</key>
-		<string>0</string>
-		<key>open</key>
-		<string>2071</string>
-		<key>secondsforemost</key>
-		<string>0</string>
-		<key>secondsopen</key>
-		<string>124266</string>
-		<key>version</key>
-		<string>1.7</string>
 	</dict>
 	<key>/System/Library/CoreServices/UserNotificationCenter.app</key>
 	<dict>
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>2061</string>
+		<string>1923</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>123666</string>
+		<string>115414</string>
 		<key>version</key>
 		<string>3.3.0</string>
 	</dict>
 	<key>/System/Library/CoreServices/loginwindow.app</key>
 	<dict>
 		<key>foremost</key>
-		<string>94</string>
+		<string>0</string>
 		<key>open</key>
-		<string>2071</string>
+		<string>1923</string>
 		<key>secondsforemost</key>
-		<string>5698</string>
+		<string>0</string>
 		<key>secondsopen</key>
-		<string>124266</string>
+		<string>115413</string>
 		<key>version</key>
 		<string>9.0</string>
 	</dict>
 	<key>/System/Library/Frameworks/QuickLook.framework/Versions/A/Resources/quicklookd.app/Contents/MacOS/qlmanage</key>
 	<dict>
 		<key>foremost</key>
-		<string>1</string>
+		<string>0</string>
 		<key>open</key>
-		<string>1998</string>
+		<string>1923</string>
 		<key>secondsforemost</key>
-		<string>7</string>
+		<string>0</string>
 		<key>secondsopen</key>
-		<string>119895</string>
+		<string>115413</string>
 		<key>version</key>
 		<string>n/a</string>
 	</dict>
 	<key>/System/Library/Frameworks/Security.framework/Versions/A/MachServices/SecurityAgent.bundle</key>
 	<dict>
 		<key>foremost</key>
-		<string>1</string>
+		<string>0</string>
 		<key>open</key>
-		<string>2061</string>
+		<string>1923</string>
 		<key>secondsforemost</key>
-		<string>29</string>
+		<string>0</string>
 		<key>secondsopen</key>
-		<string>123664</string>
+		<string>115413</string>
 		<key>version</key>
 		<string>9.0</string>
 	</dict>
-	<key>/Users/boesene/Applications/Android Studio.app</key>
+	<key>/Users/boesene/Applications/Arduino.app</key>
 	<dict>
 		<key>foremost</key>
-		<string>1</string>
+		<string>0</string>
 		<key>open</key>
-		<string>2061</string>
+		<string>1923</string>
 		<key>secondsforemost</key>
-		<string>116</string>
+		<string>0</string>
 		<key>secondsopen</key>
-		<string>123665</string>
+		<string>115413</string>
 		<key>version</key>
-		<string>3.2</string>
+		<string>1.8.7</string>
 	</dict>
 	<key>/Users/boesene/Applications/Firefox Nightly.app</key>
 	<dict>
 		<key>foremost</key>
-		<string>278</string>
-		<key>open</key>
-		<string>2061</string>
-		<key>secondsforemost</key>
-		<string>16711</string>
-		<key>secondsopen</key>
-		<string>123664</string>
-		<key>version</key>
-		<string>66.0a1</string>
-	</dict>
-	<key>/Users/boesene/Applications/GRIP.app</key>
-	<dict>
-		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>2071</string>
+		<string>2000</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>124267</string>
+		<string>120052</string>
 		<key>version</key>
-		<string>v1.5.2-x64</string>
+		<string>67.0a1</string>
 	</dict>
 	<key>/Users/boesene/Applications/Gimp-2.10.app</key>
 	<dict>
 		<key>foremost</key>
-		<string>17</string>
+		<string>0</string>
 		<key>open</key>
-		<string>2035</string>
+		<string>1923</string>
 		<key>secondsforemost</key>
-		<string>1064</string>
+		<string>0</string>
 		<key>secondsopen</key>
-		<string>122129</string>
+		<string>115413</string>
 		<key>version</key>
 		<string>2.10.4</string>
 	</dict>
-	<key>/Users/boesene/Applications/Google Chrome.app</key>
-	<dict>
-		<key>foremost</key>
-		<string>3</string>
-		<key>open</key>
-		<string>2049</string>
-		<key>secondsforemost</key>
-		<string>194</string>
-		<key>secondsopen</key>
-		<string>122971</string>
-		<key>version</key>
-		<string>71.0.3578.98</string>
-	</dict>
-	<key>/Users/boesene/Library/Android/sdk/emulator</key>
+	<key>/Users/boesene/Applications/Gimp-2.10.app/Contents/Resources/lib/gimp/2.0/plug-ins/file-jpeg</key>
 	<dict>
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>2071</string>
+		<string>1923</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>124266</string>
+		<string>115413</string>
 		<key>version</key>
 		<string>n/a</string>
 	</dict>
-	<key>/Users/boesene/src/VictiScout/node_modules/electron/dist/Electron.app</key>
-	<dict>
-		<key>foremost</key>
-		<string>0</string>
-		<key>open</key>
-		<string>2071</string>
-		<key>secondsforemost</key>
-		<string>0</string>
-		<key>secondsopen</key>
-		<string>124266</string>
-		<key>version</key>
-		<string>1.8.8</string>
-	</dict>
-	<key>/private/var/folders/1d/5gzzbybd5b5f5r8rh7rk5ych5mnzzx/T/AppTranslocation/2813E52F-BE07-4446-A1E7-4547BCE19A9E/d/Spotify.app</key>
-	<dict>
-		<key>foremost</key>
-		<string>0</string>
-		<key>open</key>
-		<string>2071</string>
-		<key>secondsforemost</key>
-		<string>0</string>
-		<key>secondsopen</key>
-		<string>124267</string>
-		<key>version</key>
-		<string>1.0.88.353.g15c26ea1</string>
-	</dict>
-	<key>/private/var/folders/1d/5gzzbybd5b5f5r8rh7rk5ych5mnzzx/T/AppTranslocation/2DF175AF-6BDC-45F9-9B46-69A0A1E7EA3F/d/Spotify.app</key>
-	<dict>
-		<key>foremost</key>
-		<string>0</string>
-		<key>open</key>
-		<string>2071</string>
-		<key>secondsforemost</key>
-		<string>0</string>
-		<key>secondsopen</key>
-		<string>124266</string>
-		<key>version</key>
-		<string>1.0.88.353.g15c26ea1</string>
-	</dict>
-	<key>/private/var/folders/1d/5gzzbybd5b5f5r8rh7rk5ych5mnzzx/T/AppTranslocation/4335AC5A-BF09-4B92-8822-ED7FC6573CFC/d/Spotify.app</key>
-	<dict>
-		<key>foremost</key>
-		<string>0</string>
-		<key>open</key>
-		<string>2071</string>
-		<key>secondsforemost</key>
-		<string>0</string>
-		<key>secondsopen</key>
-		<string>124266</string>
-		<key>version</key>
-		<string>1.0.88.353.g15c26ea1</string>
-	</dict>
-	<key>/private/var/folders/1d/5gzzbybd5b5f5r8rh7rk5ych5mnzzx/T/AppTranslocation/46A0C501-D2D7-429D-A28D-FFFF927945D2/d/Spotify.app</key>
-	<dict>
-		<key>foremost</key>
-		<string>0</string>
-		<key>open</key>
-		<string>2071</string>
-		<key>secondsforemost</key>
-		<string>0</string>
-		<key>secondsopen</key>
-		<string>124266</string>
-		<key>version</key>
-		<string>1.0.88.353.g15c26ea1</string>
-	</dict>
-	<key>/private/var/folders/1d/5gzzbybd5b5f5r8rh7rk5ych5mnzzx/T/AppTranslocation/62721C50-A3DF-4A7F-915D-B0DB21ED876D/d/Spotify.app</key>
-	<dict>
-		<key>foremost</key>
-		<string>0</string>
-		<key>open</key>
-		<string>2071</string>
-		<key>secondsforemost</key>
-		<string>0</string>
-		<key>secondsopen</key>
-		<string>124266</string>
-		<key>version</key>
-		<string>1.0.88.353.g15c26ea1</string>
-	</dict>
-	<key>/private/var/folders/1d/5gzzbybd5b5f5r8rh7rk5ych5mnzzx/T/AppTranslocation/8AEC3660-5121-478B-9F10-0A45609B3B37/d/Spotify.app</key>
-	<dict>
-		<key>foremost</key>
-		<string>0</string>
-		<key>open</key>
-		<string>2071</string>
-		<key>secondsforemost</key>
-		<string>0</string>
-		<key>secondsopen</key>
-		<string>124266</string>
-		<key>version</key>
-		<string>1.0.88.353.g15c26ea1</string>
-	</dict>
-	<key>/private/var/folders/1d/5gzzbybd5b5f5r8rh7rk5ych5mnzzx/T/AppTranslocation/92475C63-3120-4682-8751-AFA205FA62E6/d/Spotify.app</key>
+	<key>/Users/boesene/Applications/Gimp-2.10.app/Contents/Resources/lib/gimp/2.0/plug-ins/file-png</key>
 	<dict>
 		<key>foremost</key>
 		<string>1</string>
 		<key>open</key>
-		<string>382</string>
+		<string>1923</string>
 		<key>secondsforemost</key>
-		<string>29</string>
+		<string>1</string>
 		<key>secondsopen</key>
-		<string>22968</string>
+		<string>115414</string>
 		<key>version</key>
-		<string>1.0.88.353.g15c26ea1</string>
+		<string>n/a</string>
 	</dict>
-	<key>/private/var/folders/1d/5gzzbybd5b5f5r8rh7rk5ych5mnzzx/T/AppTranslocation/B37BB6B0-0824-497D-AEEA-C8960B12AA66/d/Spotify.app</key>
+	<key>/Users/boesene/Applications/Google Chrome.app</key>
 	<dict>
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>2071</string>
+		<string>1923</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>124267</string>
+		<string>115413</string>
 		<key>version</key>
-		<string>1.0.88.353.g15c26ea1</string>
+		<string>72.0.3626.109</string>
 	</dict>
-	<key>/private/var/folders/1d/5gzzbybd5b5f5r8rh7rk5ych5mnzzx/T/AppTranslocation/B6D66941-2B85-4767-B864-1875C454A527/d/Spotify.app</key>
+	<key>/Users/boesene/Library/Printers/GM-A123.app</key>
 	<dict>
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>2071</string>
+		<string>1923</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>124266</string>
+		<string>115413</string>
 		<key>version</key>
-		<string>1.0.88.353.g15c26ea1</string>
+		<string>13.4</string>
 	</dict>
-	<key>/private/var/folders/1d/5gzzbybd5b5f5r8rh7rk5ych5mnzzx/T/AppTranslocation/BD521708-02D0-4709-952D-E64A88B80390/d/Spotify.app</key>
+	<key>/Users/boesene/src/2019-dashboard/node_modules/electron/dist/Electron.app</key>
+	<dict>
+		<key>foremost</key>
+		<string>5</string>
+		<key>open</key>
+		<string>1964</string>
+		<key>secondsforemost</key>
+		<string>334</string>
+		<key>secondsopen</key>
+		<string>117888</string>
+		<key>version</key>
+		<string>1.7.10</string>
+	</dict>
+	<key>/private/var/folders/1d/5gzzbybd5b5f5r8rh7rk5ych5mnzzx/T/AppTranslocation/2199FB91-A4CF-458C-A673-C2375986DDA7/d/Spotify.app</key>
 	<dict>
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>2071</string>
+		<string>1923</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>124266</string>
+		<string>115413</string>
 		<key>version</key>
 		<string>1.0.88.353.g15c26ea1</string>
 	</dict>
-	<key>/private/var/folders/1d/5gzzbybd5b5f5r8rh7rk5ych5mnzzx/T/AppTranslocation/D0B8BBFC-ED4C-4F86-ADED-B5632FB0554B/d/Spotify.app</key>
+	<key>/private/var/folders/1d/5gzzbybd5b5f5r8rh7rk5ych5mnzzx/T/AppTranslocation/28503F0A-9D82-4FAB-9A4C-F91F20F8ED4E/d/Spotify.app</key>
 	<dict>
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>2071</string>
+		<string>1923</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>124267</string>
+		<string>115413</string>
 		<key>version</key>
 		<string>1.0.88.353.g15c26ea1</string>
 	</dict>
-	<key>/private/var/folders/1d/5gzzbybd5b5f5r8rh7rk5ych5mnzzx/T/AppTranslocation/DDD96004-497E-4F0D-AE9C-323B02D5E779/d/Spotify.app</key>
+	<key>/private/var/folders/1d/5gzzbybd5b5f5r8rh7rk5ych5mnzzx/T/AppTranslocation/401FCBC3-F04B-4341-B7B7-870F47727A90/d/Spotify.app</key>
 	<dict>
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>2071</string>
+		<string>1923</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>124267</string>
+		<string>115413</string>
+		<key>version</key>
+		<string>1.0.88.353.g15c26ea1</string>
+	</dict>
+	<key>/private/var/folders/1d/5gzzbybd5b5f5r8rh7rk5ych5mnzzx/T/AppTranslocation/9392D512-E67C-4D32-AB76-0F555B5A675F/d/Spotify.app</key>
+	<dict>
+		<key>foremost</key>
+		<string>0</string>
+		<key>open</key>
+		<string>1923</string>
+		<key>secondsforemost</key>
+		<string>0</string>
+		<key>secondsopen</key>
+		<string>115413</string>
+		<key>version</key>
+		<string>1.0.88.353.g15c26ea1</string>
+	</dict>
+	<key>/private/var/folders/1d/5gzzbybd5b5f5r8rh7rk5ych5mnzzx/T/AppTranslocation/BA9BC2A6-9BFD-45E6-AE5F-FABF4837717A/d/Spotify.app</key>
+	<dict>
+		<key>foremost</key>
+		<string>0</string>
+		<key>open</key>
+		<string>1923</string>
+		<key>secondsforemost</key>
+		<string>0</string>
+		<key>secondsopen</key>
+		<string>115413</string>
+		<key>version</key>
+		<string>1.0.88.353.g15c26ea1</string>
+	</dict>
+	<key>/private/var/folders/1d/5gzzbybd5b5f5r8rh7rk5ych5mnzzx/T/AppTranslocation/CBC62E72-3109-49A6-AA82-A2EEC83708B0/d/Spotify.app</key>
+	<dict>
+		<key>foremost</key>
+		<string>0</string>
+		<key>open</key>
+		<string>2000</string>
+		<key>secondsforemost</key>
+		<string>0</string>
+		<key>secondsopen</key>
+		<string>120052</string>
+		<key>version</key>
+		<string>1.0.88.353.g15c26ea1</string>
+	</dict>
+	<key>/private/var/folders/1d/5gzzbybd5b5f5r8rh7rk5ych5mnzzx/T/AppTranslocation/F2E87460-32EB-48C3-9F3D-1839DFE5B188/d/Spotify.app</key>
+	<dict>
+		<key>foremost</key>
+		<string>0</string>
+		<key>open</key>
+		<string>1923</string>
+		<key>secondsforemost</key>
+		<string>0</string>
+		<key>secondsopen</key>
+		<string>115413</string>
+		<key>version</key>
+		<string>1.0.88.353.g15c26ea1</string>
+	</dict>
+	<key>/private/var/folders/1d/5gzzbybd5b5f5r8rh7rk5ych5mnzzx/T/AppTranslocation/F706CDBD-992B-4A5D-9BA5-94FA9B098BDF/d/Spotify.app</key>
+	<dict>
+		<key>foremost</key>
+		<string>0</string>
+		<key>open</key>
+		<string>1923</string>
+		<key>secondsforemost</key>
+		<string>0</string>
+		<key>secondsopen</key>
+		<string>115413</string>
+		<key>version</key>
+		<string>1.0.88.353.g15c26ea1</string>
+	</dict>
+	<key>/private/var/folders/1d/5gzzbybd5b5f5r8rh7rk5ych5mnzzx/T/AppTranslocation/F76C0723-0408-4E0E-B507-F9D65DAFB6EA/d/Spotify.app</key>
+	<dict>
+		<key>foremost</key>
+		<string>0</string>
+		<key>open</key>
+		<string>1923</string>
+		<key>secondsforemost</key>
+		<string>0</string>
+		<key>secondsopen</key>
+		<string>115413</string>
 		<key>version</key>
 		<string>1.0.88.353.g15c26ea1</string>
 	</dict>

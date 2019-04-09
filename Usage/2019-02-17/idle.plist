@@ -5,11 +5,11 @@
 	<key>lockMinutes</key>
 	<string>10</string>
 	<key>lockSeconds</key>
-	<string>602</string>
+	<string>631</string>
 	<key>lockStartTime</key>
-	<string>1549170000</string>
+	<string>1550466000</string>
 	<key>minutes</key>
-	<string>0</string>
+	<string>10</string>
 	<key>powerOffMinutes</key>
 	<string>0</string>
 	<key>powerOffSeconds</key>
@@ -17,16 +17,16 @@
 	<key>powerOffStartTime</key>
 	<string>0</string>
 	<key>screensaverMinutes</key>
-	<string>0</string>
-	<key>screensaverSeconds</key>
-	<string>0</string>
-	<key>screensaverStartTime</key>
-	<string>0</string>
-	<key>sleepMinutes</key>
 	<string>10</string>
+	<key>screensaverSeconds</key>
+	<string>631</string>
+	<key>screensaverStartTime</key>
+	<string>1550466000</string>
+	<key>sleepMinutes</key>
+	<string>0</string>
 	<key>sleepSeconds</key>
-	<string>602</string>
+	<string>0</string>
 	<key>sleepStartTime</key>
-	<string>1549170000</string>
+	<string>1550467783</string>
 </dict>
 </plist>
