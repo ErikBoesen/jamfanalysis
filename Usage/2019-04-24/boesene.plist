@@ -7,50 +7,50 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>2.0.3</string>
 	</dict>
 	<key>/Applications/Microsoft Excel.app</key>
 	<dict>
 		<key>foremost</key>
-		<string>1</string>
+		<string>17</string>
 		<key>open</key>
-		<string>1917</string>
+		<string>1949</string>
 		<key>secondsforemost</key>
-		<string>104</string>
+		<string>1028</string>
 		<key>secondsopen</key>
-		<string>115070</string>
+		<string>116958</string>
 		<key>version</key>
 		<string>15.29.16120900</string>
 	</dict>
 	<key>/Applications/Photo Booth.app</key>
 	<dict>
 		<key>foremost</key>
-		<string>8</string>
+		<string>0</string>
 		<key>open</key>
-		<string>1893</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
-		<string>534</string>
+		<string>0</string>
 		<key>secondsopen</key>
-		<string>113583</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>9.0</string>
 	</dict>
 	<key>/Applications/Preview.app</key>
 	<dict>
 		<key>foremost</key>
-		<string>0</string>
+		<string>1</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1945</string>
 		<key>secondsforemost</key>
-		<string>0</string>
+		<string>3</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>116743</string>
 		<key>version</key>
 		<string>10.0</string>
 	</dict>
@@ -59,11 +59,11 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>10.4</string>
 	</dict>
@@ -72,11 +72,11 @@
 		<key>foremost</key>
 		<string>1</string>
 		<key>open</key>
-		<string>1920</string>
+		<string>1901</string>
 		<key>secondsforemost</key>
-		<string>15</string>
+		<string>4</string>
 		<key>secondsopen</key>
-		<string>115212</string>
+		<string>114084</string>
 		<key>version</key>
 		<string>14.0</string>
 	</dict>
@@ -85,11 +85,11 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>1.13</string>
 	</dict>
@@ -98,11 +98,11 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>17.0.3</string>
 	</dict>
@@ -111,11 +111,11 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>10.0</string>
 	</dict>
@@ -124,24 +124,24 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>10.12</string>
 	</dict>
 	<key>/Applications/Utilities/Terminal.app</key>
 	<dict>
 		<key>foremost</key>
-		<string>24</string>
+		<string>175</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
-		<string>1486</string>
+		<string>10512</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>2.8.2</string>
 	</dict>
@@ -150,11 +150,11 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>10.1.9</string>
 	</dict>
@@ -163,11 +163,11 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>3.6.5</string>
 	</dict>
@@ -176,11 +176,11 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1729</string>
+		<string>1690</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>103792</string>
+		<string>101439</string>
 		<key>version</key>
 		<string>2.0</string>
 	</dict>
@@ -189,11 +189,11 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>10.10</string>
 	</dict>
@@ -202,11 +202,11 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>1.9.2</string>
 	</dict>
@@ -215,11 +215,11 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>5.0</string>
 	</dict>
@@ -228,11 +228,11 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>180.7.6</string>
 	</dict>
@@ -241,24 +241,24 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>1.8</string>
 	</dict>
 	<key>/System/Library/CoreServices/Finder.app</key>
 	<dict>
 		<key>foremost</key>
-		<string>1</string>
+		<string>2</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
-		<string>109</string>
+		<string>124</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>10.13.5</string>
 	</dict>
@@ -267,11 +267,11 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>15.0.1</string>
 	</dict>
@@ -280,24 +280,24 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>5.0</string>
 	</dict>
 	<key>/System/Library/CoreServices/SystemUIServer.app</key>
 	<dict>
 		<key>foremost</key>
-		<string>0</string>
+		<string>1</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
-		<string>0</string>
+		<string>3</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>1.7</string>
 	</dict>
@@ -306,24 +306,24 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1729</string>
+		<string>1690</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>103792</string>
+		<string>101439</string>
 		<key>version</key>
 		<string>5.0</string>
 	</dict>
 	<key>/System/Library/CoreServices/UserNotificationCenter.app</key>
 	<dict>
 		<key>foremost</key>
-		<string>1</string>
+		<string>0</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
-		<string>3</string>
+		<string>0</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>3.3.0</string>
 	</dict>
@@ -332,37 +332,37 @@
 		<key>foremost</key>
 		<string>1</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
-		<string>84</string>
+		<string>37</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>9.0</string>
 	</dict>
 	<key>/System/Library/Frameworks/QuickLook.framework/Versions/A/Resources/quicklookd.app/Contents/MacOS/qlmanage</key>
 	<dict>
 		<key>foremost</key>
-		<string>0</string>
+		<string>1</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1916</string>
 		<key>secondsforemost</key>
-		<string>0</string>
+		<string>1</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>114973</string>
 		<key>version</key>
 		<string>n/a</string>
 	</dict>
 	<key>/System/Library/Frameworks/Security.framework/Versions/A/MachServices/SecurityAgent.bundle</key>
 	<dict>
 		<key>foremost</key>
-		<string>0</string>
+		<string>1</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
-		<string>0</string>
+		<string>1</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>9.0</string>
 	</dict>
@@ -371,11 +371,11 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1729</string>
+		<string>1690</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>103792</string>
+		<string>101439</string>
 		<key>version</key>
 		<string>2.0.1</string>
 	</dict>
@@ -384,11 +384,11 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1729</string>
+		<string>1690</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>103792</string>
+		<string>101439</string>
 		<key>version</key>
 		<string>480.60.1</string>
 	</dict>
@@ -397,11 +397,11 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>3.2</string>
 	</dict>
@@ -410,11 +410,11 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>1.8.7</string>
 	</dict>
@@ -423,24 +423,24 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>2.3.1.0</string>
 	</dict>
 	<key>/Users/boesene/Applications/Firefox Nightly.app</key>
 	<dict>
 		<key>foremost</key>
-		<string>285</string>
+		<string>81</string>
 		<key>open</key>
-		<string>1729</string>
+		<string>1690</string>
 		<key>secondsforemost</key>
-		<string>17141</string>
+		<string>4918</string>
 		<key>secondsopen</key>
-		<string>103792</string>
+		<string>101439</string>
 		<key>version</key>
 		<string>67.0a1</string>
 	</dict>
@@ -449,24 +449,24 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1729</string>
+		<string>1690</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>103792</string>
+		<string>101439</string>
 		<key>version</key>
 		<string>1.0</string>
 	</dict>
 	<key>/Users/boesene/Applications/Gimp-2.10.app</key>
 	<dict>
 		<key>foremost</key>
-		<string>0</string>
+		<string>2</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1930</string>
 		<key>secondsforemost</key>
-		<string>0</string>
+		<string>142</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>115806</string>
 		<key>version</key>
 		<string>2.10.4</string>
 	</dict>
@@ -475,11 +475,11 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>72.0.3626.109</string>
 	</dict>
@@ -488,11 +488,11 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>2018.2.3</string>
 	</dict>
@@ -501,11 +501,11 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>3.0.4</string>
 	</dict>
@@ -514,11 +514,11 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>2.94</string>
 	</dict>
@@ -527,11 +527,11 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>n/a</string>
 	</dict>
@@ -540,11 +540,11 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>1.7.10</string>
 	</dict>
@@ -553,24 +553,24 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>1.8.8</string>
 	</dict>
 	<key>/private/var/folders/1d/5gzzbybd5b5f5r8rh7rk5ych5mnzzx/T/AppTranslocation/10CA4250-FDBD-4A66-B230-CC0F7942F007/d/Spotify.app</key>
 	<dict>
 		<key>foremost</key>
-		<string>17</string>
+		<string>0</string>
 		<key>open</key>
-		<string>1729</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
-		<string>1038</string>
+		<string>0</string>
 		<key>secondsopen</key>
-		<string>103792</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>1.0.88.353.g15c26ea1</string>
 	</dict>
@@ -579,11 +579,11 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>1.0.88.353.g15c26ea1</string>
 	</dict>
@@ -592,11 +592,11 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>1.0.88.353.g15c26ea1</string>
 	</dict>
@@ -605,11 +605,11 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>1.0.88.353.g15c26ea1</string>
 	</dict>
@@ -618,11 +618,37 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
+		<key>version</key>
+		<string>1.0.88.353.g15c26ea1</string>
+	</dict>
+	<key>/private/var/folders/1d/5gzzbybd5b5f5r8rh7rk5ych5mnzzx/T/AppTranslocation/53D98A71-2175-4060-82BB-794AE4B601EB/d/Spotify.app</key>
+	<dict>
+		<key>foremost</key>
+		<string>0</string>
+		<key>open</key>
+		<string>1950</string>
+		<key>secondsforemost</key>
+		<string>0</string>
+		<key>secondsopen</key>
+		<string>117016</string>
+		<key>version</key>
+		<string>1.0.88.353.g15c26ea1</string>
+	</dict>
+	<key>/private/var/folders/1d/5gzzbybd5b5f5r8rh7rk5ych5mnzzx/T/AppTranslocation/62D71BE4-9C12-415B-80A2-1EC81B17E103/d/Spotify.app</key>
+	<dict>
+		<key>foremost</key>
+		<string>0</string>
+		<key>open</key>
+		<string>1950</string>
+		<key>secondsforemost</key>
+		<string>0</string>
+		<key>secondsopen</key>
+		<string>117016</string>
 		<key>version</key>
 		<string>1.0.88.353.g15c26ea1</string>
 	</dict>
@@ -631,11 +657,11 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>1.0.88.353.g15c26ea1</string>
 	</dict>
@@ -644,11 +670,11 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>1.0.88.353.g15c26ea1</string>
 	</dict>
@@ -657,11 +683,11 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>1.0.88.353.g15c26ea1</string>
 	</dict>
@@ -670,11 +696,11 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>1.0.88.353.g15c26ea1</string>
 	</dict>
@@ -683,11 +709,11 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>1.0.88.353.g15c26ea1</string>
 	</dict>
@@ -696,11 +722,24 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
+		<key>version</key>
+		<string>1.0.88.353.g15c26ea1</string>
+	</dict>
+	<key>/private/var/folders/1d/5gzzbybd5b5f5r8rh7rk5ych5mnzzx/T/AppTranslocation/AF7547A6-BE63-4AC0-8A62-CE026EDBB720/d/Spotify.app</key>
+	<dict>
+		<key>foremost</key>
+		<string>2</string>
+		<key>open</key>
+		<string>890</string>
+		<key>secondsforemost</key>
+		<string>131</string>
+		<key>secondsopen</key>
+		<string>53429</string>
 		<key>version</key>
 		<string>1.0.88.353.g15c26ea1</string>
 	</dict>
@@ -709,11 +748,11 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>1.0.88.353.g15c26ea1</string>
 	</dict>
@@ -722,11 +761,11 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>1.0.88.353.g15c26ea1</string>
 	</dict>
@@ -735,11 +774,11 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>1.0.88.353.g15c26ea1</string>
 	</dict>
@@ -748,11 +787,11 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>1.0.88.353.g15c26ea1</string>
 	</dict>
@@ -761,11 +800,11 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>1.0.88.353.g15c26ea1</string>
 	</dict>
@@ -774,11 +813,11 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>1.0.88.353.g15c26ea1</string>
 	</dict>
@@ -787,11 +826,11 @@
 		<key>foremost</key>
 		<string>0</string>
 		<key>open</key>
-		<string>1923</string>
+		<string>1950</string>
 		<key>secondsforemost</key>
 		<string>0</string>
 		<key>secondsopen</key>
-		<string>115380</string>
+		<string>117016</string>
 		<key>version</key>
 		<string>1.0.88.353.g15c26ea1</string>
 	</dict>
