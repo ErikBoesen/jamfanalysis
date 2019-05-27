@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lockMinutes</key>
+	<string>1440</string>
+	<key>lockSeconds</key>
+	<string>86400</string>
+	<key>lockStartTime</key>
+	<string>1558324800</string>
+	<key>minutes</key>
+	<string>0</string>
+	<key>powerOffMinutes</key>
+	<string>0</string>
+	<key>powerOffSeconds</key>
+	<string>0</string>
+	<key>powerOffStartTime</key>
+	<string>0</string>
+	<key>screensaverMinutes</key>
+	<string>0</string>
+	<key>screensaverSeconds</key>
+	<string>0</string>
+	<key>screensaverStartTime</key>
+	<string>0</string>
+	<key>sleepMinutes</key>
+	<string>1440</string>
+	<key>sleepSeconds</key>
+	<string>86400</string>
+	<key>sleepStartTime</key>
+	<string>1558324800</string>
+</dict>
+</plist>
